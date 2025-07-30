@@ -4,7 +4,7 @@ function clicks() {
     $('#div2').addClass("fadeinv2");
         
     var typed = new Typed('.katakata', {
-        strings: ["Cuma mau bilang", "ACA CANTIK BANGET", "ACA MANIS BANGET", "WOPYOUUUUUU ACAAAA❤💕"],
+        strings: ["Just Wanna Say", "Deyyy ou're so beautiful🖤", "You're have the sweetiest smile i ever see", "ROORRRRR🖤🖤🖤🖤"],
         typeSpeed: 70
     });
 }

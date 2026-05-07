@@ -4,7 +4,7 @@ function clicks() {
     $('#div2').addClass("fadeinv2");
         
     var typed = new Typed('.katakata', {
-        strings: ["Just Wanna Say", "Dira you are so beautiful", "You're have the amazing eyes i ever see", "MIAWWWW🐈"],
+        strings: ["Just Wanna Say", "Jeje you are so cute!", "Jeje you are amazing!", "Dudung asoy"],
         typeSpeed: 70
     });
 }
